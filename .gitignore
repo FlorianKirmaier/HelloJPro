@@ -1,0 +1,11 @@
+.idea/
+.gradle/
+out/
+build/
+*/build/
+*/out/
+.vscode
+**/bin
+logs/
+RUNNING_PID
+.DS_STORE
