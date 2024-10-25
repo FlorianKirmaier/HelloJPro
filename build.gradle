@@ -25,6 +25,8 @@ application {
     mainClass = 'one.jpro.hellojpro.HelloJProFXML'
 }
 
+jpro.releasePlatforms = ["all"]
+
 jpro {
     // jpro server port
     port = 8080
